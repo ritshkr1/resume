@@ -1,0 +1,61 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 40px;
+  background: #fff;
+  color: #333;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+}
+
+h1, h2 {
+  color: #000;
+  margin-bottom: 10px;
+}
+
+#header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#header h1 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#header h2 {
+  font-size: 16px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+.contact {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+ul {
+  margin-left: 20px;
+  line-height: 1.5;
+}
+
+.experience-block, .project-block {
+  margin-bottom: 20px;
+}
+
+.project-grid {
+  display: flex;
+  gap: 20px;
+}
+
+.project-block {
+  flex: 1;
+  border-left: 4px solid #999;
+  padding-left: 10px;
+}

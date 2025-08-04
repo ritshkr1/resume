@@ -1,0 +1,142 @@
+{
+  "personal": {
+    "name": "Ritesh Kumar",
+    "title": "Frontend Engineer (Angular)",
+    "location": "Mohali, India",
+    "contacts": {
+      "phone": "+91-8210961014",
+      "email": "riteshkumar.dev2@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/ritsh/",
+      "github": "https://github.com/ritshkr1"
+    }
+  },
+  "summary": [
+  "Results-oriented Frontend Engineer with 2.10 years of Angular experience across multiple sectors.",
+  "Skilled in Angular (12-19), TypeScript, RxJS, NgRx, Tailwind CSS, and Angular Material.",
+  "Experienced in REST API integration, test-driven development, and CI/CD workflows.",
+  "Collaborates closely with QA and project managers to deliver high-quality, user-centric features."
+],
+  "skills": {
+  "languages": [
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "HTML5",
+    "CSS3"
+  ],
+  "frameworks": [
+    "Angular 2+",
+    "React",
+    "Angular Material",
+    "Tailwind CSS",
+    "RxJS",
+    "NgRx",
+    "AG Grid",
+    "PrimeNg",
+    "Boostrap"
+  ],
+  "tools": [
+    "Git",
+    "Chrome DevTools",
+    "Jest",
+    "Karma",
+    "Postman",
+    "NPM"
+  ],
+  "workflow": [
+    "REST APIs",
+    "Firebase",
+    "JWT",
+    "CI/CD (GitHub Actions)",
+    "Agile"
+  ]},
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "university": "MRSPTU",
+      "year": 2021,
+      "location": "Patiala, India"
+    }
+  ],
+  "experience": [
+  {
+    "company": "Advanta Inc",
+    "location": "Mohali, India",
+    "roles": [
+      {
+        "title": "Angular Trainee",
+        "from": "Jan 2022",
+        "to": "Feb 2022",
+        "details": [
+  "Quickly mastered Angular fundamentals and project workflows, accelerating onboarding by 50%.",
+  "Contributed to UI module development and debugging under senior guidance, reducing bug backlog by 20%.",
+  "Implemented TailwindCSS and used RxJS for async operations, enhancing frontend responsiveness and modularity.",
+  "Gained hands-on experience with version control using GitLab initially, and successfully transitioned to GitHub."
+]
+      },
+      {
+        "title": "Software Developer (Angular)",
+        "from": "Mar 2022",
+        "to": "Feb 2024",
+        "details": [
+    "Developed over 5 core modules for a school ERP and parent portal, improving user engagement by 30% through feature enhancements and bug fixes.",
+    "Engineered dynamic in-app reporting tools that reduced management decision-making time by 20% via real-time data visualization.",
+    "Optimized user experience and application performance, increasing load speed by 25% through cross-functional collaboration and code profiling.",
+    "Upgraded front-end architecture from Angular 12 to 15, improving maintainability and reducing technical debt by refactoring legacy code.",
+    "Mentored 3 junior developers, improving team code quality and productivity by leading code reviews, facilitating design meetings, and sharing best practices."
+  ]
+      }
+    ]
+  },
+  {
+    "company": "Softwiz",
+    "location": "Mohali, India",
+    "roles": [
+      {
+        "title": "Frontend Developer (Angular)",
+        "from": "Apr 2024",
+        "to": "Oct 2024",
+        "details": [
+  "Handled two projects simultaneously, managing the complete delivery lifecycle for one from planning to deployment, while actively contributing to a second project.",
+  "Implemented Azure two-factor authentication and integrated Firebase to enhance product security and streamline user management.",
+  "Guided junior developers and collaborated closely with team leads, resulting in improved workflow efficiency and higher code quality.",
+  "Relied on Asana and Jira for organizing tasks, tracking project progress, and ensuring agile delivery.",
+  "Held weekly meetings with clients to gather requirements, align features with their expectations, and adapt solutions based on real-time feedback."
+]
+
+      }
+    ]
+  },
+  {
+    "company": "Workfall",
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Frontend Developer (Angular)",
+        "from": "May 2025",
+        "to": "Jun 2025",
+        "details": [
+          "Contributed to the development of an in-house application aimed at automating and streamlining client work processes.",
+          "Optimized UI components for better performance and usability.",
+          "Engaged in Agile ceremonies and collaborated with product and backend teams."
+        ]
+      }
+    ]
+  }
+]
+,
+  "projects": [
+  {
+    "name": "Martese - Company Landing Page",
+    "tech": ["Angular 19", "Signals", "Tailwind CSS"],
+    "link": "https://martease.vercel.app/",
+    "description": "Modern, responsive company landing page built with Angular 19 and Signals, styled with Tailwind CSS for fast performance and sleek UI."
+  },
+  {
+    "name": "My Amz ecom – E-Commerce Web App",
+    "tech": ["Angular 20", "Tailwind CSS", "Signals"],
+    "link": "https://my-amz-ecom.vercel.app/home",
+    "description": "Currently in progress: developing a feature-rich e-commerce platform with product listing, and shopping cart, built on Angular 20 and Tailwind CSS."
+  }
+]
+
+}
