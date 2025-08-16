@@ -1,1 +1,1 @@
-A clean, responsive, single-page HTML resume built with vanilla HTML & CSS — perfect for exporting as PDF or hosting as a live resume. Designed to be simple, printable, and recruiter-friendly. Ideal for frontend developers who want to showcase skills without overkill.
+A clean, responsive, single-page HTML resume built with vanilla Js, HTML & CSS — perfect for quick resume review.
